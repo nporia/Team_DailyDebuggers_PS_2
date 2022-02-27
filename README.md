@@ -40,10 +40,22 @@ Understanding the working of the backend side of our application was a big chall
 All of these challenges were less of a challenge, and more of lessons, lessons to help us build an even better process for incorporating users' needs efficiently in the future.
 
 ## Try The Web Application
+![image1](https://user-images.githubusercontent.com/70997038/155877889-aa80ebf4-eaf6-41dd-a040-8642ff2c57a2.jpeg)
+![image2](https://user-images.githubusercontent.com/70997038/155877916-ac61eec0-5bf3-4e2e-86f9-bfa8bdeada91.jpeg)
+![image3](https://user-images.githubusercontent.com/70997038/155877919-1f9cd642-74a4-492d-a269-0f5caae199a6.jpeg)
+![image](https://user-images.githubusercontent.com/70997038/155877960-5adff4dd-af65-4e65-8f99-56da4b95eaf7.png)
+![image6](https://user-images.githubusercontent.com/70997038/155877998-25b95ec7-371e-4f1f-87d5-2a7357fa9345.jpeg)
+
+![image](https://user-images.githubusercontent.com/70997038/155877962-ac146c6f-a045-4cd3-8c47-0e19239aef24.png)
+![image4](https://user-images.githubusercontent.com/70997038/155877982-9f0e232c-0871-4ed7-b315-203586a000d5.jpeg)
+![image5](https://user-images.githubusercontent.com/70997038/155877990-c5ab49ee-106b-48d2-b2ab-f26f48e208ba.jpeg)
+![image7](https://user-images.githubusercontent.com/70997038/155878007-f592321e-3d79-4961-a331-cc9080c21b43.jpeg)
+![image8](https://user-images.githubusercontent.com/70997038/155878027-e48bd5ec-7520-4ee3-a348-bebcfe99c2d6.jpeg)
 
 Try the Web App [here](https://aictedemo.netlify.app/).
 Try the portal Web App [here](https://aictescholarshipportal.netlify.app/).
 
+![WhatsApp Image 2022-02-27 at 2 50 38 PM](https://user-images.githubusercontent.com/70997038/155877863-c1740aa3-0ee2-482e-8254-48170be12e09.jpeg)
 
 
 
