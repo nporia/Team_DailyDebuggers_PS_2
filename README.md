@@ -1,8 +1,8 @@
 # Team Name: Team_DailyDebuggers_PS_2
 # Project Name : AICTE Automation Titan
 # Tagline: It’s fast, it’s furious, it’s AICTE approval!
-<img width="1440" alt="Screenshot 2021-07-14 at 11 49 11 PM" src="https://user-images.githubusercontent.com/20817990/125680594-ac58a82c-4fab-4710-90a4-bfbb1e41f8bd.png">
-<img width="1440" alt="Screenshot 2021-07-14 at 11 49 18 PM" src="https://user-images.githubusercontent.com/20817990/125680668-4c28a360-7641-400d-a988-46da6128c262.png">
+<img width="1440" alt="Screenshot 2021-07-14 at 11 49 11 PM" src="">
+<img width="1440" alt="Screenshot 2021-07-14 at 11 49 18 PM" src="">
 
 ## Table of contents
 
